@@ -4,6 +4,9 @@
 This Study Portal allows User to Login on the potal and **Create or Delete Notes, Homework and To-Do Lists**.
 Users can also **Search Books, Meanings of words and Wikipedia Information** on any topic
 
+![dashboard](https://user-images.githubusercontent.com/85742867/147137483-14dc47a5-3198-4e12-b424-6c5e6feb4ad2.png)
+
+
 **TechStack Used**
 1. Python (Programming Language)
 2. Django (Web Framework)
