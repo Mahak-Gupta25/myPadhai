@@ -23,16 +23,16 @@ Users can also **Search Books, Meanings of words and Wikipedia Information** on 
   ```
 5. Now before running the server, we have to setup database, so run. 
   ```
-  $ python3 manage.py migrate
+  $ python manage.py migrate
   ```
-6. Now create superuser for accessing the dashboard to view the stored videos
+6. Now create superuser for accessing the dashboard to view the stored content.
   ```
-  $ python3 manage.py createsuperuser
+  $ python manage.py createsuperuser
   ```
 7. After completeing of all the entries while creating superuser, we are ready to test the whole project.
 8. Now run the following command for starting the server
   ```
-  $ python3 manage.py runserver
+  $ python manage.py runserver
   ```
 9. To access the dashboard checkout http://127.0.0.1:8000
 10. To access the admin panel checkout http://127.0.0.1:8000/admin
