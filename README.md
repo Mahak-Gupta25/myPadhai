@@ -15,7 +15,7 @@ Users can also **Search Books, Meanings of words and Wikipedia Information** on 
 **How to setup and run locally**
 
 1. Clone the Repository
-2. Create a Activate Python Virtual Environment
+2. Create and Activate Python Virtual Environment
 3. After activating the virtual enviornment, redirect to project base directory.
 4. Run the following command for installing dependencies. 
   ```
